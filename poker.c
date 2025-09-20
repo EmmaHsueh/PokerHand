@@ -58,8 +58,3 @@ int32_t big_two_sort(int8_t cards[]) {
     bubble_sort(cards, 13); // Sort the cards using the custom bubble sort
     return 0;
 }
-
-    bubble_sort(cards, 13); // Sort the cards using the custom bubble sort
-    return 0;
-}
-*/
