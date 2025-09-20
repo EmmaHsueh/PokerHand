@@ -135,7 +135,3 @@ Error: Invalid cards or duplicates found.
 - 重複的卡牌輸入
 - 輸入格式錯誤
 - 卡牌數量不正確
-
-## 授權
-
-此專案僅供學習使用。
